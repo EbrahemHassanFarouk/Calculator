@@ -24,6 +24,7 @@ import java.util.Collections;
 
 public class MainActivity extends AppCompatActivity {
     //start
+    //878789798789
     ArrayList<String> operator;
     ArrayList<ArrayList<Integer>> openBrackts =new ArrayList<>();
     ArrayList<ArrayList<Integer>> closeBrackts =new ArrayList<>();
